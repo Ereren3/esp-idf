@@ -412,3 +412,6 @@
 2025-03-16 19:26:00 | WARN | repo=esp-idf | action=edit | files=3
 2024-05-22 17:59:00 | WARN | repo=esp-idf | action=commit
 2023-05-25 21:00:00 | DEBUG | repo=esp-idf | action=commit
+2023-04-18 14:20:00 | WARN | repo=esp-idf | action=test | passed=true
+2024-05-03 19:25:00 | DEBUG | repo=esp-idf | action=test | passed=true
+2025-04-20 07:00:00 | WARN | repo=esp-idf | action=commit
